@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lernajs.io/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fweb-configs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNinjaMadMad%2Fweb-configs?ref=badge_shield)
 
 This repository contains common configurations for building web apps at Shopify.
 
@@ -86,3 +87,6 @@ The release process currently involves some manual steps to complete. Once your 
 MIT &copy; [Shopify](https://shopify.com/), see [LICENSE.md](LICENSE.md) for details.
 
 <a href="http://www.shopify.com/"><img src="https://cdn.shopify.com/assets2/brand-assets/shopify-logo-main-8ee1e0052baf87fd9698ceff7cbc01cc36a89170212ad227db3ff2706e89fd04.svg" alt="Shopify" width="200" /></a>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fweb-configs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNinjaMadMad%2Fweb-configs?ref=badge_large)
